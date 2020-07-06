@@ -1,0 +1,7 @@
+C:\Users\rodrigo.gsantana1\Desktop\Aulas de Programação\CalculadoraFuncoes\CalculadoraFuncoes\bin\Debug\CalculadoraFuncoes.exe.config
+C:\Users\rodrigo.gsantana1\Desktop\Aulas de Programação\CalculadoraFuncoes\CalculadoraFuncoes\bin\Debug\CalculadoraFuncoes.exe
+C:\Users\rodrigo.gsantana1\Desktop\Aulas de Programação\CalculadoraFuncoes\CalculadoraFuncoes\bin\Debug\CalculadoraFuncoes.pdb
+C:\Users\rodrigo.gsantana1\Desktop\Aulas de Programação\CalculadoraFuncoes\CalculadoraFuncoes\obj\Debug\CalculadoraFuncoes.csprojAssemblyReference.cache
+C:\Users\rodrigo.gsantana1\Desktop\Aulas de Programação\CalculadoraFuncoes\CalculadoraFuncoes\obj\Debug\CalculadoraFuncoes.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.gsantana1\Desktop\Aulas de Programação\CalculadoraFuncoes\CalculadoraFuncoes\obj\Debug\CalculadoraFuncoes.exe
+C:\Users\rodrigo.gsantana1\Desktop\Aulas de Programação\CalculadoraFuncoes\CalculadoraFuncoes\obj\Debug\CalculadoraFuncoes.pdb
